@@ -26,3 +26,20 @@ Repositório para armazenar o conteúdo visto em aula - turma 926 módulo Banco 
 # Modelo conceitual do projeto
 
 ![Modelo Conceitual do e-commerce](modelo_conceitual.png)
+
+# Grupos
+
+|             Grupo 1             |              Grupo 2              |             Grupo 3             |          Grupo 4          |
+|:-------------------------------:|:---------------------------------:|:-------------------------------:|:-------------------------:|
+|       Pedro Vitor De Toni       |             Job Nunes             |    Victor Henrique Martines     |     Bruno De Oliveira     |
+|    Rodrigo Veras Dos Santos     |         Matheus Gaviraghi         |   Marco Antonio Loureiro Lima   | Ivana Maria Feitosa Silva |
+| Maria Theresa De Sousa Ferreira | Leonardo Almeida E Silva Oliveira | Bárbara Fernanda Ayres Da Silva | Rachel Lizandra Borborema |
+|     Guilherme Costa E Silva     |  Hilario Henrique Silva Ribeiro   |                                 |                           |
+
+---
+
+|           Grupo 5           |            Grupo 6             |          Grupo 7          |            Grupo 8             |
+|:---------------------------:|:------------------------------:|:-------------------------:|:------------------------------:|
+|         Ivo Augusto         | José Guilherme Da Silva Arruda |  Thiago Miguel Lapazini   |        Luciana Ferreira        |
+| Ruan Derlan Sombra Oliveira |         Joyce Ribeiro          | Renan Barbieri Segamarchi | Pedro Henrique Vieira Da Silva |
+| Guilherme Moreira Da Silva  |    Lucas Feliciano Bassetto    |      Gustavo Amabile      |  Matheus Felipe Lima Domingos  |
