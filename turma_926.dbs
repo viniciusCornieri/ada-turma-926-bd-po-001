@@ -54,6 +54,9 @@
 			<column name="meio_pagamento" type="varchar" length="200" jt="12" mandatory="y" />
 			<column name="status" type="varchar" length="100" jt="12" mandatory="y" />
 			<column name="id_cliente" type="integer" jt="4" mandatory="y" />
+			<column name="data_criacao" type="timestamp" jt="93" mandatory="y" >
+				<defo><![CDATA[CURRENT_TIMESTAMP]]></defo>
+			</column>
 			<index name="pk_pedido" unique="PRIMARY_KEY" >
 				<column name="id" />
 			</index>
